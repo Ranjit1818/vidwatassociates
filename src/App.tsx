@@ -162,19 +162,19 @@ export default function App() {
         <div className="grid gap-8 md:grid-cols-3">
           <div className="text-center shadow rounded-lg p-6 hover:shadow-lg">
             <img className="w-32 h-32 mx-auto rounded-full mb-4" src="https://via.placeholder.com/150" alt="Engineer 1" />
-            <h3 className="font-bold text-lg">Er. Rahul Mehta</h3>
+            <h3 className="font-bold text-lg">Er. Sachin Kulkarni</h3>
             <p className="text-gray-600">Senior Civil Engineer</p>
             <p className="text-sm mt-2">Expert in infrastructure design with 15+ years of experience in metro and smart city projects.</p>
           </div>
           <div className="text-center shadow rounded-lg p-6 hover:shadow-lg">
             <img className="w-32 h-32 mx-auto rounded-full mb-4" src="https://via.placeholder.com/150" alt="Engineer 2" />
-            <h3 className="font-bold text-lg">Ar. Priya Sharma</h3>
+            <h3 className="font-bold text-lg">Ar. Prajwal Kulkarni</h3>
             <p className="text-gray-600">Chief Architect</p>
             <p className="text-sm mt-2">Leads architectural innovation in commercial and residential construction, with a focus on green design.</p>
           </div>
           <div className="text-center shadow rounded-lg p-6 hover:shadow-lg">
             <img className="w-32 h-32 mx-auto rounded-full mb-4" src="https://via.placeholder.com/150" alt="Engineer 3" />
-            <h3 className="font-bold text-lg">Er. Ankit Rao</h3>
+            <h3 className="font-bold text-lg">Er. Krishna Desai</h3>
             <p className="text-gray-600">Project Manager</p>
             <p className="text-sm mt-2">Expert in managing large-scale industrial and residential projects with a strong technical background.</p>
           </div>
@@ -186,9 +186,9 @@ export default function App() {
         <h2 className="text-3xl font-semibold mb-6">Contact Us</h2>
         <div className="grid gap-4 md:grid-cols-2">
           <div className="text-gray-700">
-            <p className="flex items-center gap-2 mb-2"><MapPin className="text-yellow-500" /> Mumbai HQ, India</p>
-            <p className="flex items-center gap-2 mb-2"><Phone className="text-yellow-500" /> +91 98765 43210</p>
-            <p className="flex items-center gap-2"><Mail className="text-yellow-500" /> info@ltconstruction.com</p>
+            <p className="flex items-center gap-2 mb-2"><MapPin className="text-yellow-500" /> Vijayapura,Karnataka,India</p>
+            <p className="flex items-center gap-2 mb-2"><Phone className="text-yellow-500" /> +91 78927 87054</p>
+            <p className="flex items-center gap-2"><Mail className="text-yellow-500" />vidwatassociates@gmail.com</p>
           </div>
           <form className="flex flex-col gap-4">
             <input className="border p-2 rounded" placeholder="Name" />
