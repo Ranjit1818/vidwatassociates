@@ -206,7 +206,7 @@ export default function App() {
           <a href="#"><Instagram /></a>
           <a href="#"><Linkedin /></a>
         </div>
-        <p>© 2025 L&T Constructions. All rights reserved.</p>
+        <p>© 2025 Vidwat Associates. All rights reserved.</p>
         <p className="mt-2 text-gray-400">This site is currently under construction. Check back soon for updates!</p>
       </footer>
 
